@@ -2,6 +2,7 @@ package com.nnxy.team4;
 
 public class linxin {
 	private int id;
+	private int s;
 	private String name;
 	private String author;
 	public int getId() {
