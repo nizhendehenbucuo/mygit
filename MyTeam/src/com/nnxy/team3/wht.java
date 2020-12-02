@@ -1,14 +1,10 @@
-package com.nnxy.team5;
+package com.nnxy.team3;
 
-public class sumeirong {
-	
-	int a;
-private int id;
-	
+public class wht {
+	private int id;
 	public int getId() {
 		return id;
 	}
-	
 	public void setId(int id) {
 		this.id=id;
 	}
