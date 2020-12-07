@@ -1,6 +1,6 @@
-package com.nnxy.team1;
+package com.nnxy.team5;
 
-public class wuminling_2 {
+public class huanghongfei {
 	
 	private int id;
 	private String name;
@@ -16,4 +16,6 @@ public class wuminling_2 {
 	public void setName(String name) {
 		this.name = name;
 	}
+
+
 }
