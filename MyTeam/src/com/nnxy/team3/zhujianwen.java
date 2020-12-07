@@ -4,7 +4,7 @@ public class zhujianwen {
 private int id;
 	
 	public int getId() {
-		return id;
+		return id  + 10086;
 	}
 	
  public void setId(int id){
