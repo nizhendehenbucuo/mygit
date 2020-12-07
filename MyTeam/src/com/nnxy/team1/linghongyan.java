@@ -2,6 +2,7 @@ package com.nnxy.team1;
 
 public class linghongyan {
 	
+	
 	private int id;
 	
 	public int getId() {
