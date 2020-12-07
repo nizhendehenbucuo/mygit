@@ -7,5 +7,5 @@ public class HEZHIMAN {
   }
   public void setId(int id) {
 	  this.id=id;
-  }
+  int a;}
 }
