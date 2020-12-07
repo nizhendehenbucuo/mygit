@@ -1,7 +1,6 @@
 package com.nnxy.team4;
 
-public class xuqiaoyi_2 {
+public class Xuqiaoyi_2 {
 	private int id;
-	
 
 }
