@@ -1,6 +1,6 @@
 package com.nnxy.team5;
 
-public class Huangguijia_2 {
+public class Huangguijia_2_ {
 	private int id;
 	private String name;
 	public int getId() {

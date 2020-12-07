@@ -1,6 +1,6 @@
 package com.nnxy.team5;
 
-public class Jianghuilin_2 {
+public class Jianghuilin_2_ {
 	private int id;
 	private String name;
 	public int getId() {
