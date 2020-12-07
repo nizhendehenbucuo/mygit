@@ -2,5 +2,6 @@ package com.nnxy.team5;
 
 public class zhoucanqi {
 //÷‹≤”∆Ì
-	int x;
+	int led;
+	int z;
 }
