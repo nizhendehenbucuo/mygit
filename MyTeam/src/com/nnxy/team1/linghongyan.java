@@ -12,6 +12,7 @@ public class linghongyan {
 	public void setId(int id) {
 		this.id=id;
 		//ddd;
+		///fffffggg
 	}
 
 }
