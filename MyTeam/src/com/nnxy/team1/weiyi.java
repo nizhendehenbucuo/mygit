@@ -1,7 +1,7 @@
 package com.nnxy.team1;
 
 /*
- * czs的修改
+ * 
  * 添加name和sex*/
 public class weiyi {
 	private String id;
