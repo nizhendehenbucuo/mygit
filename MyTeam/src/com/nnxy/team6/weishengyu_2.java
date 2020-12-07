@@ -9,7 +9,7 @@ public class weishengyu_2 {
 		System.out.println("hello");
 		System.out.println("hello");
 		System.out.println("hello");
-		
+		System.out.println("hello");
 	}
 
 }
