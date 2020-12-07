@@ -4,7 +4,7 @@ public class libingbing {
 	private int id;
 	
 	public int getId() {
-		return id;
+		return id+10;
 		
 	}
 
