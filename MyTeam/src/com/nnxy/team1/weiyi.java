@@ -1,7 +1,10 @@
 package com.nnxy.team1;
 
+/*
+ * czs的修改
+ * 添加name和sex*/
 public class weiyi {
-	private int id;
+	private String id;
 	private String name;
 	private String sex;
 	
@@ -16,12 +19,6 @@ public class weiyi {
 	}
 	public void setSex(String sex) {
 		this.sex = sex;
-	}
-	public void setId(int id) {
-		this.id = id;
-	}
-	public int getId() {
-		return id;
 	}
 	
 
