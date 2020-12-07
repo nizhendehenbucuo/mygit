@@ -6,7 +6,7 @@ public class Huanghuiqion {
 	
 	public int getId() {
 
-		return id+10;
+		return id+100;
 
 	}
 	
