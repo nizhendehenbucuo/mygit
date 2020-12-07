@@ -2,7 +2,7 @@ package com.nnxy.team5;
 
 public class sumeirong {
 	
-	int a=1;
+	int a=2;
 private int id;
 	
 	public int getId() {
