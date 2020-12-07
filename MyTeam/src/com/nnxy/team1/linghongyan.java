@@ -1,6 +1,7 @@
 package com.nnxy.team1;
 
 public class linghongyan {
+
 	
 	int a;
 	private int id;
@@ -11,8 +12,6 @@ public class linghongyan {
 	
 	public void setId(int id) {
 		this.id=id;
-		//ddd;
-		///fffffggg
 	}
 
 }
