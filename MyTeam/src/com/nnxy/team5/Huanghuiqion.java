@@ -5,7 +5,7 @@ public class Huanghuiqion {
 	private int id;
 	
 	public int getId() {
-		return id;
+		return id+100;
 	}
 	
 	public void setId(int id) {
