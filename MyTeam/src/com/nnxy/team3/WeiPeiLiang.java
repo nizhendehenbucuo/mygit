@@ -1,6 +1,6 @@
 package com.nnxy.team3;
 
-public class Test {
+public class WeiPeiLiang {
 	private int id;
 
 	public int getId() {
