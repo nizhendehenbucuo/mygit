@@ -9,7 +9,7 @@ public class weishengyu_2 {
 		System.out.println("hello,xintian");
 		System.out.println("hello,xintian");
 		System.out.println("hello,xintian");
-		2
+		
 	}
 
 }
