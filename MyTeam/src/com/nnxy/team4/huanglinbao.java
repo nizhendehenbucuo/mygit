@@ -8,7 +8,7 @@ public int getId() {
 }
 
 public void setId(int id) {
-	this.id = id+10;
+	this.id = id;
 }
   
 }
