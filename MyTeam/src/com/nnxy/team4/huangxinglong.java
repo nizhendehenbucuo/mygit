@@ -6,7 +6,7 @@ public class huangxinglong {
 	public String name;
 	public String author;
 	public int getId() {
-		return id;
+		return id +211 ;
 	}
 	public void setId(int id) {
 		this.id = id;
