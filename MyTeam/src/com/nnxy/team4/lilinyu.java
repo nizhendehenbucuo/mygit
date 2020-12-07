@@ -1,8 +1,8 @@
 package com.nnxy.team4;
 
 public class lilinyu {
-	void mains()
+	void name ()
 	{
-      System.out.println("my name is Houkaiteng");
+      System.out.println("my na is Houkaiteng");
 }
 }
