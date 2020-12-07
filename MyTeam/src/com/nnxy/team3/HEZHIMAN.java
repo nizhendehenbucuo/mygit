@@ -1,6 +1,11 @@
 package com.nnxy.team3;
 
 public class HEZHIMAN {
-   int c;
-   int l;
+  private int id;
+  public int getId() {
+	  return id + 10;
+  }
+  public void setId(int id) {
+	  this.id=id;
+  int a;}
 }
