@@ -1,6 +1,6 @@
 package com.nnxy.team6;
 
-public class xintian {
+public class xintian_2 {
 
 
 	private int id;
