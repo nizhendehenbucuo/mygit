@@ -4,7 +4,7 @@ public class jixioaxue {
 
 	private int id;
 	public int getId() {
-		return id +10;
+		return id +101;
 	}
 	
 	public void setId(int id) {
