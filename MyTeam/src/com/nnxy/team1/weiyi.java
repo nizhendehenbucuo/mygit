@@ -1,14 +1,10 @@
 package com.nnxy.team1;
 
+/*
+ * 
+ * 添加name和sex*/
 public class weiyi {
-	private int id;
-	public int getId() {
-		return id;
-		
-	}
-	
-	public void setId(int id) {
-		this.id = id;
-	}
-
+	private String id;
+	private String name;
+	private String sex;
 }

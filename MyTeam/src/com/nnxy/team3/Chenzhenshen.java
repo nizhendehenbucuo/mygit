@@ -33,7 +33,9 @@ public class Chenzhenshen {
 	public String toString() {
 		return "Chenzhenshen [学号：" + id + ", 姓名：" + name + ", 性别：" + sex + ", 爱好：" + love + "]";
 	}
-	
-	
-
+    public static void main(String[] arcy) {
+		Chenzhenshen c1=new Chenzhenshen();
+		c1.id="20160217105";
+	}
 }
+
